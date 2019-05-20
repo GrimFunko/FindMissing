@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindMissingProblem", "FindMissingProblem\FindMissingProblem.csproj", "{58685A66-27A3-49CE-912D-D753E093EC2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58685A66-27A3-49CE-912D-D753E093EC2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58685A66-27A3-49CE-912D-D753E093EC2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58685A66-27A3-49CE-912D-D753E093EC2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58685A66-27A3-49CE-912D-D753E093EC2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDFC5E5E-224A-464A-8421-DBA88AFB9EAB}
+	EndGlobalSection
+EndGlobal
